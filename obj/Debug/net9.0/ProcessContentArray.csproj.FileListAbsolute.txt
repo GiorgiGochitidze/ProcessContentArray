@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\bin\Debug\net9.0\ProcessContentArray.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\bin\Debug\net9.0\ProcessContentArray.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\bin\Debug\net9.0\ProcessContentArray.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\bin\Debug\net9.0\ProcessContentArray.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\bin\Debug\net9.0\ProcessContentArray.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ProcessContentArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ProcessContentArray.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ProcessContentArray.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ProcessContentArray.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ProcessContentArray.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\refint\ProcessContentArray.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ProcessContentArray.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ProcessContentArray.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ProcessContentArray\obj\Debug\net9.0\ref\ProcessContentArray.dll
